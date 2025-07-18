@@ -37,7 +37,7 @@ cd plagiarism-checker-ai
 ### Step 2: Install dependencies
 pip install -r requirements.txt
 
-###Step 3: Run the app
+### Step 3: Run the app
 streamlit run pc.py
 Then open http://localhost:8501 in your browser.
 
