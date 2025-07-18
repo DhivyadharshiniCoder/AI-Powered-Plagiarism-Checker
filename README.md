@@ -21,13 +21,12 @@ This is a **Streamlit-based web app** that compares two documents and detects se
 plagiarism-checker-ai/
 │
 ├── pc.py # Main Streamlit app code
-├── requirements.txt # Required Python libraries
-├── README.md # This file
-└── similarity_results.csv # (Generated) CSV output of results
 
-yaml
-Copy
-Edit
+├── requirements.txt # Required Python libraries
+
+├── README.md # This file
+
+└── similarity_results.csv # (Generated) CSV output of results
 
 ---
 
@@ -38,25 +37,13 @@ Edit
 git clone https://github.com/DhivyadharshiniCoder/plagiarism-checker-ai.git
 cd plagiarism-checker-ai
 
-shell
-Copy
-Edit
-
 ### 📌 Step 2: Install dependencies
 
 pip install -r requirements.txt
 
-shell
-Copy
-Edit
-
 ### 📌 Step 3: Run the app
 
 streamlit run pc.py
-
-yaml
-Copy
-Edit
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
