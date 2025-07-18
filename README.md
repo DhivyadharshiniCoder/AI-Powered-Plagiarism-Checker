@@ -18,8 +18,8 @@ This is a **Streamlit-based web app** that compares two documents and detects se
 
 ## 📂 File Structure
 
-plagiarism-checker-ai/
-│
+plagiarism-checker-ai
+
 ├── pc.py # Main Streamlit app code
 
 ├── requirements.txt # Required Python libraries
