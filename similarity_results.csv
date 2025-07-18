@@ -1,0 +1,18 @@
+Sentence_File1,Sentence_File2,Similarity_Score
+Artificial Intelligence (AI) is revolutionizing industries by enabling machines to think and learn like humans.,"Industries around the world are being transformed by artificial intelligence, which empowers computers to mimic human cognitive processes.",0.776
+"One of the key components of AI is machine learning, which allows systems to learn from data and improve over time without being explicitly programmed.
+
+Machine learning algorithms can identify patterns in large datasets and make predictions or decisions based on that information.","At its core, machine learning — a subset of AI — enables machines to extract knowledge from data and enhance their performance over time.
+
+With the help of machine learning, systems are capable of discovering trends in massive datasets and utilizing those patterns to make informed predictions.",0.809
+"This capability has found widespread applications such as fraud detection, recommendation systems, autonomous vehicles, and even climate modeling.
+
+In healthcare, AI helps in early disease diagnosis, medical imaging, and personalized treatment plans.","This ability has opened the doors to breakthroughs in areas like cybersecurity, self-driving technology, personalized content recommendations, and weather forecasting.
+
+In the medical field, AI is assisting healthcare professionals by enabling earlier diagnosis, improving scan interpretations, and customizing treatment options.",0.843
+The ability of AI systems to process vast amounts of patient data allows doctors to make faster and more accurate decisions.,"Thanks to its data-handling power, AI allows for quicker and more precise clinical decisions.",0.801
+"It is essential that as AI technology advances, it is governed by strong ethical guidelines to ensure its safe and fair use.
+
+AI continues to evolve rapidly, with researchers exploring new models and techniques to improve its capabilities.","To ensure AI’s positive impact, there must be strict ethical frameworks that guide its development and usage.
+
+AI is developing at a rapid pace.",0.837
