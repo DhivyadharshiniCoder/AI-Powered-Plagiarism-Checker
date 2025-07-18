@@ -66,5 +66,7 @@ Interface: Streamlit
 📬 Contact
 
 For feedback or suggestions, feel free to open an issue or contact:
-📧 your-dhivyadharshan0505@gmail.com
+
+📧 dhivyadharshan0505@gmail.com
+
 👤 GitHub: DhivyadharshiniCoder
