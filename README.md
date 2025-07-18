@@ -22,11 +22,16 @@ plagiarism-checker-ai
 
 ├── pc.py # Main Streamlit app code
 
+├── streamlit_app.py # Main Streamlit app code
+
+
 ├── requirements.txt # Required Python libraries
 
 ├── README.md # This file
 
 └── similarity_results.csv # (Generated) CSV output of results
+
+├── output_pc # output screenshot
 
 ---
 
@@ -71,6 +76,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
   - `Sentence_File1`
   - `Sentence_File2`
   - `Similarity_Score`
+<img width="720" height="792" alt="image" src="https://github.com/user-attachments/assets/ffc3b230-5656-4dd1-b2c0-4eb6c6e50b4c" />
 
 ---
 
