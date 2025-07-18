@@ -51,6 +51,7 @@ pandas
 (You can install all via the provided requirements.txt)
 
 📊 Output
+
 Matching sentence pairs displayed in a table
 Similarity score (0 to 1) shown for each match
 Plagiarism percentage calculated based on sentence overlap
@@ -63,6 +64,7 @@ Model: paraphrase-MiniLM-L6-v2
 Interface: Streamlit
 
 📬 Contact
+
 For feedback or suggestions, feel free to open an issue or contact:
 📧 your-dhivyadharshan0505@gmail.com
 👤 GitHub: DhivyadharshiniCoder
